@@ -1,0 +1,77 @@
+*
+{
+   margin: 0;
+    padding:0;
+}
+#navbar
+
+{
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 10;
+
+}
+
+.navbar-brand img
+
+{
+
+    height: 70px;
+
+    padding-left: 30px;
+
+}
+
+/*---------------About Us--------*/
+#container
+{
+    text-align: center;
+}
+
+#about
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #555;
+}
+#about .btn
+{
+margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+.about-h1
+{
+    align-items: center;
+}
+.about-content
+{
+ padding-top: 20px;   
+    text-align: center;
+}
+.about icon
+{
+    padding: 10px;
+}
+
+/*----------Footer-------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: green;
+  
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+}
