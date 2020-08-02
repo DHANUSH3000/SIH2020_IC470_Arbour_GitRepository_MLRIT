@@ -1,0 +1,148 @@
+*
+
+{
+
+   margin: 0;
+
+    padding:0;
+
+}
+
+
+#navbar
+
+{
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 10;
+
+}
+
+.navbar-brand img
+
+{
+
+    height: 70px;
+
+    padding-left: 30px;
+
+}
+
+.navbar-nav li
+
+{
+
+    padding: 0 10px;
+
+}
+
+.navbar-nav li a
+
+{
+
+    float: right;
+
+    text-align: left;
+
+}
+
+#nav-bar ul li a:hover{
+
+    color: #93c572!important;
+
+}
+
+.navbar
+
+{
+
+   background: #fff;
+
+}
+
+.navbar-toggler
+
+{
+
+    border: none;
+
+}
+
+.nav-link
+
+{
+
+    color: rgb(118, 128, 93);
+
+    font-weight: 600;
+
+    font-size: 20;
+}
+/--------------Tools-------------/
+   
+
+
+#Tools
+
+{
+
+    text-align: center;
+
+    color: #6bc786;
+
+    padding-bottom: 10px;
+
+   
+
+}
+h2
+
+{
+
+    text-align: center;
+
+    color: rgb(15, 65, 31);
+
+    padding-bottom: 10px;
+
+}
+ h2::after
+
+{
+
+    content:'';
+
+    background: #348f3b;
+
+    display: block;
+
+    height: 3px;
+
+    width: 170px;
+
+    margin: 20px auto 5px;
+
+}
+            
+/*----------Footer-------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: green;
+  
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+

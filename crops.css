@@ -1,0 +1,41 @@
+/*----------Navigation----------*/
+.h1
+{
+    float: left;
+}
+
+#navbar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    
+  
+    height: 50px;
+    top:0;
+    left:0;
+    padding:0 40px;
+}
+
+
+/*----------Footer-------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: green;
+  
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}

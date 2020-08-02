@@ -1,0 +1,68 @@
+*
+{
+   margin: 0;
+    padding:0;
+}
+#navbar
+
+{
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 10;
+    
+
+}
+
+.navbar-brand img
+
+{
+
+    height: 50px;
+
+    padding-left: 30px;
+
+}
+#crops {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#crops td, #crops th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#crops tr:nth-child(even){background-color: #f2f2f2;}
+
+#crops tr:hover {background-color: #ddd;}
+
+#crops th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+            
+/*----------Footer-------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: green;
+  
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}
