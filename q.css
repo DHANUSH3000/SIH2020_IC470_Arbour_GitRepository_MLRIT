@@ -1,0 +1,62 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar
+
+{
+
+    position: sticky;
+
+    top: 0;
+
+    z-index: 10;
+
+}
+
+.navbar-brand img
+
+{
+
+    height: 70px;
+    width: 110px;
+
+    padding-left: 30px;
+
+}
+img
+{
+    height: 300px;
+    width: 700px;
+    border-radius: 8px;
+    padding-left: 200px;
+   
+}
+.center
+{
+   
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+/*----------Footer-------*/
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: green;
+  
+}
+.icon{
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 30px;
+}
+
