@@ -47,6 +47,10 @@
   background-color: #4CAF50;
   color: white;
 }
+#input btn
+{
+    align-content: center;
+}
             
 /*----------Footer-------*/
 #footer
